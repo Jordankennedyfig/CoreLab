@@ -12,7 +12,7 @@ body {
     background-color: #051826;
 }
 header {
-    background-color:#13364E ;
+    background-color:#051826 ;
 
 }
 
@@ -41,7 +41,8 @@ p {
 }
 
 div img {
-    width: 100px;
+    width: 150px;
     padding: 10px;
+    padding-left: 20px;
     
 }
