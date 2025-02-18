@@ -8,19 +8,35 @@
 }
 
 body {
+
     background-color: #051826;
+}
+header {
+    background-color:#13364E ;
 }
 
 main {
     width: 500px;
     padding: 500px;
+    margin: -470px;
+    background-color: #13364E;
     text-align: center;
 
-    background-color: #13364E;
 }
 
 h1 {
     color: #ffff;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    
+}
+p {
+    color: #ffff;
+    font-family: 'Courier New', Courier, monospace;
+    
+}
 
+div img {
+    width: 100px;
+    padding: 10px;
+    
 }
