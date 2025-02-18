@@ -13,16 +13,21 @@ body {
 }
 header {
     background-color:#13364E ;
+
 }
 
 main {
-    width: 500px;
-    padding: 500px;
-    margin: -470px;
+
     background-color: #13364E;
     text-align: center;
-
+    padding: 20px;
+    border-radius: 10px;
+    min-width: 250px;
+    max-width: 800px;
+    margin: auto;
+    margin-top: 20px;
 }
+
 
 h1 {
     color: #ffff;
