@@ -2,6 +2,7 @@
 
 
 * {
+    
     margin: 0;
     padding: 0;
    
@@ -12,6 +13,7 @@ body {
     background-color: #051826;
 }
 header {
+
     background-color:#051826 ;
 
 }
@@ -43,7 +45,7 @@ p {
 }
 
 div img {
-    
+
     width: 150px;
     padding: 10px;
     padding-left: 20px;
